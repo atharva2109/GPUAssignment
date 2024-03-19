@@ -1,0 +1,7 @@
+﻿  cpu.c
+C:\Users\Lenovo\OneDrive\Desktop\GPU-Assignment\COMCUDA_assignment_c614d9bf-master\src\cpu.c(50,8): warning C4013: 'printf' undefined; assuming extern returning int
+  openmp.c
+  Generating Code...
+     Creating library C:\Users\Lenovo\OneDrive\Desktop\GPU-Assignment\COMCUDA_assignment_c614d9bf-master\x64\Debug\assignment.lib and object C:\Users\Lenovo\OneDrive\Desktop\GPU-Assignment\COMCUDA_assignment_c614d9bf-master\x64\Debug\assignment.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  assignment.vcxproj -> C:\Users\Lenovo\OneDrive\Desktop\GPU-Assignment\COMCUDA_assignment_c614d9bf-master\x64\Debug\assignment.exe
